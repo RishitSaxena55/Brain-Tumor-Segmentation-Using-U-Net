@@ -38,15 +38,6 @@ Each `image` should have a corresponding `mask`.
 
 ---
 
-## ⚙️ Setup & Installation
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/RishitSaxena55/brain-tumor-segmentation-using-unet.git
-cd brain-tumor-segmentation-using-unet
-
----
-
 ## 📊 Evaluation Metrics
 
 - Dice Coefficient
@@ -64,3 +55,11 @@ cd brain-tumor-segmentation-using-unet
 - TensorFlow and Keras documentation
 
 ---
+
+
+## ⚙️ Setup & Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/RishitSaxena55/brain-tumor-segmentation-using-unet.git
+cd brain-tumor-segmentation-using-unet
